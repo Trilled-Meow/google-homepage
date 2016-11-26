@@ -1,0 +1,1 @@
+This is my attempt to create a replica of the Google homepage, focusing on appearance more than functionality. The project is intended to give me me practice in moving elements around a page. From The Odin Project's [curriculum](http://www.theodinproject.com/web-development-101/html-css).
